@@ -64,7 +64,7 @@ li {
     height: 1900px;
     left: 0;
     top: 0;
-    background-image: url(/img/BG\ 1.png);
+    background-image: url(./img/BG\ 1.png);
 }
 
 .frame__card-text-big1 {
@@ -670,7 +670,7 @@ li {
     left: 1133px;
     width: 566px;
     height: 720px;
-    background-image: url(/img/01.png);
+    background-image: url(./img/01.png);
 }
 
 .frame__card-img-2 {
@@ -679,7 +679,7 @@ li {
     height: 720px;
     top: 2360px;
     left: 237px;
-    background-image: url(/img/19202.png);
+    background-image: url(./img/19202.png);
 }
 
 .frame__card-img-3 {
@@ -688,7 +688,7 @@ li {
     height: 720px;
     top: 3280px;
     left: 1133px;
-    background-image: url(/img/03.png);
+    background-image: url(./img/03.png);
 }
 
 /* футер */
@@ -850,7 +850,7 @@ li {
         height: 1682px;
         left: 0;
         top: 0;
-        background-image: url(/img/BG23\ 1.png);
+        background-image: url(./img/BG23\ 1.png);
     }
 }
 
@@ -1374,7 +1374,7 @@ li {
         left: 910px;
         width: 488px;
         height: 765px;
-        background-image: url(/img/123.png);
+        background-image: url(./img/123.png);
     }
 
     .frame__card-img-2 {
@@ -1383,7 +1383,7 @@ li {
         height: 765px;
         top: 2408px;
         left: 138px;
-        background-image: url(/img/124.png);
+        background-image: url(./img/124.png);
     }
 
     .frame__card-img-3 {
@@ -1392,7 +1392,7 @@ li {
         height: 765px;
         top: 3373px;
         left: 910px;
-        background-image: url(/img/125.png);
+        background-image: url(./img/125.png);
     }
 
     /* футер */
@@ -1562,7 +1562,7 @@ li {
         height: 1443px;
         left: 0;
         top: 0;
-        background-image: url(/img/бг\ 1024.png);
+        background-image: url(./img/бг\ 1024.png);
     }
 }
 
@@ -2097,7 +2097,7 @@ li {
         left: 83px;
         width: 860px;
         height: 982px;
-        background-image: url(/img/011.png);
+        background-image: url(./img/011.png);
     }
 
     .frame__card-img-2 {
@@ -2106,7 +2106,7 @@ li {
         height: 982px;
         top: 3877px;
         left: 82px;
-        background-image: url(/img/022.png);
+        background-image: url(./img/022.png);
     }
 
     .frame__card-img-3 {
@@ -2115,7 +2115,7 @@ li {
         height: 982px;
         top: 5744px;
         left: 82px;
-        background-image: url(/img/033.png);
+        background-image: url(./img/033.png);
     }
 
     /* футер */
@@ -2282,7 +2282,7 @@ li {
         height: 1443px;
         left: 0;
         top: 0;
-        background-image: url(/img/бг768.png);
+        background-image: url(./img/бг768.png);
     }
 }
 
@@ -2895,7 +2895,7 @@ li {
         left: 32px;
         width: 704px;
         height: 934px;
-        background-image: url(/img/777.png);
+        background-image: url(./img/777.png);
     }
 
     .frame__card-img-2 {
@@ -2904,7 +2904,7 @@ li {
         height: 934px;
         top: 3469px;
         left: 32px;
-        background-image: url(/img/888.png);
+        background-image: url(./img/888.png);
     }
 
     .frame__card-img-3 {
@@ -2913,7 +2913,7 @@ li {
         height: 934px;
         top: 5058px;
         left: 29px;
-        background-image: url(/img/999.png);
+        background-image: url(./img/999.png);
     }
 
     /* футер */
@@ -3242,7 +3242,7 @@ li {
         height: 848px;
         left: 0;
         top: 0;
-        background-image: url(/img/480\ bg.png);
+        background-image: url(./img/480\ bg.png);
     }
 }
 
@@ -3857,7 +3857,7 @@ li {
         left: 20px;
         width: 440px;
         height: 509px;
-        background-image: url(/img/321.png);
+        background-image: url(./img/321.png);
     }
 
     .frame__card-img-2 {
@@ -3866,7 +3866,7 @@ li {
         height: 509px;
         top: 2222px;
         left: 20px;
-        background-image: url(/img/01.jpg);
+        background-image: url(./img/01.jpg);
     }
 
     .frame__card-img-3 {
@@ -3875,7 +3875,7 @@ li {
         height: 509px;
         top: 3298px;
         left: 20px;
-        background-image: url(/img/323.png);
+        background-image: url(./img/323.png);
         object-fit: contain;
     }
 
@@ -4262,7 +4262,7 @@ li {
         height: 549px;
         left: 0;
         top: 0;
-        background-image: url(/img/bg320.png);
+        background-image: url(./img/bg320.png);
     }
 }
 
@@ -4881,7 +4881,7 @@ li {
         left: 10px;
         width: 300px;
         height: 400px;
-        background-image: url(/img/3201.png);
+        background-image: url(./img/3201.png);
     }
 
     .frame__card-img-2 {
@@ -4890,7 +4890,7 @@ li {
         height: 400px;
         top: 2125px;
         left: 10px;
-        background-image: url(/img/3202.png);
+        background-image: url(./img/3202.png);
     }
 
     .frame__card-img-3 {
@@ -4899,7 +4899,7 @@ li {
         height: 400px;
         top: 3135px;
         left: 10px;
-        background-image: url(/img/3203.png);
+        background-image: url(./img/3203.png);
     }
 
     /* футер */
