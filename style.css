@@ -5317,3 +5317,21 @@ li {
     }
 
 }
+
+@media (min-width:320px) {
+    html{
+
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width:480px) {
+    html{
+
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+}
